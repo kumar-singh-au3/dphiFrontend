@@ -1,0 +1,27 @@
+.display {
+    min-width: 80vw;
+    min-height: 60vh;
+}
+.tiles {
+    padding: 20px 5px;
+    display: block;
+    background: papayawhip;
+    text-decoration: none;
+    font-size: larger;
+    color: black;
+    position: relative;
+}
+.right {
+    position: absolute;
+    right: 0;
+}
+
+.filter {
+    padding: 30px 5px;
+    display: block;
+    background: #aae5e7;
+    text-decoration: none;
+    font-size: larger;
+    color: black;
+    position: relative;
+}
