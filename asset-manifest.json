@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dphiFrontend/static/css/main.894eea17.chunk.css",
+    "main.js": "/dphiFrontend/static/js/main.49e70296.chunk.js",
+    "main.js.map": "/dphiFrontend/static/js/main.49e70296.chunk.js.map",
+    "runtime-main.js": "/dphiFrontend/static/js/runtime-main.bca1788e.js",
+    "runtime-main.js.map": "/dphiFrontend/static/js/runtime-main.bca1788e.js.map",
+    "static/css/2.8cebfa1f.chunk.css": "/dphiFrontend/static/css/2.8cebfa1f.chunk.css",
+    "static/js/2.8c27b602.chunk.js": "/dphiFrontend/static/js/2.8c27b602.chunk.js",
+    "static/js/2.8c27b602.chunk.js.map": "/dphiFrontend/static/js/2.8c27b602.chunk.js.map",
+    "static/js/3.0788ec1a.chunk.js": "/dphiFrontend/static/js/3.0788ec1a.chunk.js",
+    "static/js/3.0788ec1a.chunk.js.map": "/dphiFrontend/static/js/3.0788ec1a.chunk.js.map",
+    "index.html": "/dphiFrontend/index.html",
+    "static/css/2.8cebfa1f.chunk.css.map": "/dphiFrontend/static/css/2.8cebfa1f.chunk.css.map",
+    "static/css/main.894eea17.chunk.css.map": "/dphiFrontend/static/css/main.894eea17.chunk.css.map",
+    "static/js/2.8c27b602.chunk.js.LICENSE.txt": "/dphiFrontend/static/js/2.8c27b602.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bca1788e.js",
+    "static/css/2.8cebfa1f.chunk.css",
+    "static/js/2.8c27b602.chunk.js",
+    "static/css/main.894eea17.chunk.css",
+    "static/js/main.49e70296.chunk.js"
+  ]
+}
